@@ -8,5 +8,5 @@
   Spotify 2.0 with NEXT.JS (Tailwind)
   </p>
 
-  <img  src='/spotify-clone.png' alt='image'/>
+  ![spotify-clone](https://user-images.githubusercontent.com/87340421/233819623-04aeb38d-e1b0-4acf-b247-a92c56b489b6.png)
  </div>
