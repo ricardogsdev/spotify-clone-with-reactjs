@@ -8,5 +8,6 @@
   Spotify 2.0 with NEXT.JS (Tailwind)
   </p>
 
-  ![spotify-clone](https://user-images.githubusercontent.com/87340421/233819623-04aeb38d-e1b0-4acf-b247-a92c56b489b6.png)
+ ![spotify-clone2](https://user-images.githubusercontent.com/87340421/233819735-be8bb394-e6d9-4fe6-9b6b-8c2e387d2e1b.png)
+
  </div>
